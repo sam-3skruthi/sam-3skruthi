@@ -9,7 +9,6 @@
 from interpretable ML pipelines and agentic AI to satellite ground stations and rover comms.</p>
 <p><strong>● Building and sharing work in public</strong></p>
 
-<p><a href="https://github.com/sam-3skruthi">GitHub</a></p>
 </td>
 <td width="36%" valign="middle" align="center">
 <picture>
